@@ -20,4 +20,5 @@ source ~/.config/nvim/plug-settings/nerdtree.vim
 source ~/.config/nvim/plug-settings/rust.vim
 source ~/.config/nvim/plug-settings/signify.vim
 source ~/.config/nvim/plug-settings/ulti-snippets.vim
+source ~/.config/nvim/plug-settings/undotree.vim
 source ~/.config/nvim/plug-settings/vim-dev-icons.vim
