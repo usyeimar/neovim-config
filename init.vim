@@ -17,6 +17,7 @@ source ~/.config/nvim/plug-settings/emmet.vim
 source ~/.config/nvim/plug-settings/fzf.vim
 source ~/.config/nvim/plug-settings/indent-line.vim
 source ~/.config/nvim/plug-settings/nerdtree.vim
+source ~/.config/nvim/plug-settings/prettier.vim
 source ~/.config/nvim/plug-settings/rust.vim
 source ~/.config/nvim/plug-settings/signify.vim
 source ~/.config/nvim/plug-settings/ulti-snippets.vim
