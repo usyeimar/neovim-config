@@ -9,5 +9,3 @@
 - It use the plugin manager vim-plug
 
 ---
-
-[Nerdfonts](https://ner)
