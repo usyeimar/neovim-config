@@ -12,6 +12,7 @@ source ~/.config/nvim/themes/oceanic-next.vim
 "Import plugin settings
 source ~/.config/nvim/plug-settings/airline.vim
 source ~/.config/nvim/plug-settings/clang.vim
+source ~/.config/nvim/plug-settings/coc.vim
 source ~/.config/nvim/plug-settings/easy-motion.vim
 source ~/.config/nvim/plug-settings/emmet.vim
 source ~/.config/nvim/plug-settings/fzf.vim

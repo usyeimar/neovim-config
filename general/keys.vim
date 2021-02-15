@@ -18,7 +18,6 @@ nnoremap <silent> <down> :resize -5<CR>
 "with leader w you save the file if it have a name set. The second command
 "open your config file
 nnoremap <leader>w :w<CR>
-nnoremap <leader>e :e $MYVIMRC<CR>
 
 "you split a terminal with a size of 15
 vnoremap <c-t> :split<CR>:ter<CR>:resize 15<CR>
@@ -26,12 +25,12 @@ nnoremap <c-t> :split<CR>:ter<CR>:resize 15<CR>
 
 " Move to the next buffer
 " Move to the prevoius buffer
-nnoremap <leader>k :bnext<CR>
-nnoremap <leader>j :bprevious<CR>
+nnoremap <tab> :bnext<CR>
+nnoremap <s-tab> :bprevious<CR>
 
 " Close the current buffer
 "create a new tab
-nnoremap <leader>q :bdelete<CR>
+nnoremap <leader>qq :bdelete<CR>
 nnoremap <leader>t :tabe<CR>
 
 "vertical split
