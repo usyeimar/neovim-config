@@ -16,7 +16,7 @@ source ~/.config/nvim/plug-settings/coc.vim
 source ~/.config/nvim/plug-settings/easy-motion.vim
 source ~/.config/nvim/plug-settings/emmet.vim
 source ~/.config/nvim/plug-settings/fzf.vim
-source ~/.config/nvim/plug-settings/indent-line.vim
+"source ~/.config/nvim/plug-settings/indent-line.vim
 source ~/.config/nvim/plug-settings/nerdtree.vim
 source ~/.config/nvim/plug-settings/prettier.vim
 source ~/.config/nvim/plug-settings/rust.vim

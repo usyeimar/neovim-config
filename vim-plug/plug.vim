@@ -12,7 +12,7 @@ Plug 'sonph/onehalf', { 'rtp': 'vim' }
 Plug 'mhartington/oceanic-next'
 
 "visual
-Plug 'yggdroot/indentline'
+"Plug 'yggdroot/indentline'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
@@ -27,6 +27,7 @@ Plug 'tpope/vim-rhubarb'
 Plug 'junegunn/gv.vim'
 
 "Functionality
+Plug 'sheerun/vim-polyglot'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'scrooloose/nerdtree'
