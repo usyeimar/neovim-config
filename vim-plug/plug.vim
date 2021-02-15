@@ -39,6 +39,7 @@ Plug 'cespare/vim-toml'
 Plug 'vim-python/python-syntax'
 Plug 'mbbill/undotree'
 Plug 'prettier/vim-prettier', {'do': 'yarn install'}
+Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
 "code modification
 Plug 'scrooloose/nerdcommenter'
