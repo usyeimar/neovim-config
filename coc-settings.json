@@ -1,8 +1,12 @@
 {
-  "coc.preferences.formatOnSaveFiletypes": ["markdown", "python"],
+  "coc.preferences.formatOnSaveFiletypes": ["markdown", "python", "xml"],
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
   "python.jediEnabled": false,
   "python.formatting.provider": "autopep8",
-  "python.autoComplete.extraPaths": ["libqtile"]
+  "python.autoComplete.extraPaths": ["libqtile"],
+
+  "xml.format.enabled": true,
+  "xml.format.joinContentLines": true,
+  "xml.format.splitAttributes":true
 }
