@@ -29,8 +29,6 @@ set undofile
 "set incremental search and ignore capital words
 set incsearch
 set smartcase
-" clear search results
-nnoremap <silent> // :noh<CR>
 
 "set the cursorline and a column
 set cursorline

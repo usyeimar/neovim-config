@@ -37,3 +37,6 @@ nnoremap <leader>t :tabe<CR>
 "horizontal split
 nnoremap <leader>vs :vsp<CR>
 nnoremap <leader>sp :sp<CR>
+
+" clear search results
+nnoremap <silent> // :noh<CR>
