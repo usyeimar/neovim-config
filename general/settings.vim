@@ -23,6 +23,8 @@ set nowrap
 "I HATE the f*cking swap files and I don't want the backup files
 set noswapfile
 set nobackup
+set undodir=~/.config/nvim/.undodir/
+set undofile
 
 "set incremental search and ignore capital words
 set incsearch
