@@ -28,7 +28,7 @@ set undofile
 
 "set incremental search and ignore capital words
 set incsearch
-set ignorecase
+set smartcase
 " clear search results
 nnoremap <silent> // :noh<CR>
 
