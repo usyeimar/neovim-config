@@ -28,7 +28,7 @@ set undofile
 
 "set incremental search and ignore capital words
 set incsearch
-set smartcase
+set ignorecase
 
 "set the cursorline and a column
 set cursorline
