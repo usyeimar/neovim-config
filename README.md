@@ -1,6 +1,6 @@
 ## Configuration for _NeoVim_ made by Juan Alejandro Marín Ruiz
 
-[](images/main-neovim-image.png)
+![](images/main-neovim-image.png)
 
 ---
 ### Dependencies
