@@ -1,11 +1,13 @@
-# Configuration for vim made by Juan Alejandro Marín Ruiz
+## Configuration for _NeoVim_ made by Juan Alejandro Marín Ruiz
+
+[neovim](images/main-neovim-image.png)
 
 ---
+### Dependencies
 
-**to consider**
-
-- It needs the python interfaces ``python3 -m pip install neovim``.
-- It needs too the last version of nodejs.
-- It use the plugin manager vim-plug
-
+- It needs the **python interfaces** to use that its necessary [pip](https://pypi.org/project/pip/) ``pip install neovim``.
+- It needs too [nodejs](https://github.com/nvm-sh/nvm) **12 or higher**.
+- For some plugins its necessary [yarn](https://yarnpkg.com/) like prettier.
+- It use the plugin manager [vim-plug](https://github.com/junegunn/vim-plug)
+- Clang is used to format code
 ---

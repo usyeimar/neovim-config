@@ -1,7 +1,7 @@
 #ignore all hiden files
 .*
 
-undodir/
-
 #but no the file .gitignore
 !.gitignore
+
+images/
