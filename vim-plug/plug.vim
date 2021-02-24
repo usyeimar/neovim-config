@@ -49,6 +49,6 @@ Plug 'sirver/ultisnips'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mattn/emmet-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'rhysd/vim-clang-format'
+"Plug 'rhysd/vim-clang-format'
 
 call plug#end()
