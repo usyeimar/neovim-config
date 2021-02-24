@@ -39,7 +39,6 @@ Plug 'rust-lang/rust.vim'
 Plug 'cespare/vim-toml'
 Plug 'vim-python/python-syntax'
 Plug 'mbbill/undotree'
-Plug 'prettier/vim-prettier', {'do': 'yarn install'}
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
 "code modification
@@ -49,6 +48,5 @@ Plug 'sirver/ultisnips'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mattn/emmet-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"Plug 'rhysd/vim-clang-format'
 
 call plug#end()

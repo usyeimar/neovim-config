@@ -1,5 +1,5 @@
 {
-  "coc.preferences.formatOnSaveFiletypes": ["markdown", "python", "xml", "java"],
+  "coc.preferences.formatOnSaveFiletypes": ["markdown", "html", "python", "xml", "java"],
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
   "python.jediEnabled": false,

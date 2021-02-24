@@ -9,5 +9,4 @@
 - It needs too [nodejs](https://github.com/nvm-sh/nvm) **12 or higher**.
 - For some plugins its necessary [yarn](https://yarnpkg.com/) like prettier.
 - It use the plugin manager [vim-plug](https://github.com/junegunn/vim-plug)
-- Clang is used to format code
 ---
